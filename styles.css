@@ -1,0 +1,29 @@
+body{
+  background-color: whitesmoke;
+}
+.title {
+	color: blue;
+  font-family: monospace;
+  text-align: center;
+  font-size: 70px;
+}
+
+.links {
+  color: red;
+  text-align: right;
+}
+
+.dulinks {
+  color: red;
+  text-align: center;
+
+}
+
+.results {
+  padding: 25px;
+}
+.submit-text {
+  text-align: left;
+  font-family: Arial, Helvetica, sans-serif;
+
+}
